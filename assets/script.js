@@ -39,7 +39,7 @@ $('#submitButton').click(function() {
 });
 
 function populateWeather(cityName) {
-    let geocodeUrl = "http://api.openweathermap.org/geo/1.0/direct?q=" + cityName + "&limit=" + limit + "&appid=" + APIKey;
+    let geocodeUrl = "https://api.openweathermap.org/geo/1.0/direct?q=" + cityName + "&limit=" + limit + "&appid=" + APIKey;
 
     getApi(geocodeUrl).then(function(response) {
         console.log(response);
