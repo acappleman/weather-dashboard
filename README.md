@@ -8,13 +8,13 @@ This weather dashboard gives a user the ability to populate current weather cond
 
 You can access the weather dashbaord using GitHub Pages. 
 
-[Weather Dashboard]() <!------------Insert URL-!>
+[Weather Dashboard](https://acappleman.github.io/weather-dashboard/)
 
 ## Usage
 
-Below is a screen recording of the completed scheduler and its functionality.
+Below is a screen recording of the completed weather dashboard and functionality.
 
-![Weather Dashboard Screen Recording](./assets/images/) <!------------Complete path-!>
+![Weather Dashboard Screen Recording](./assets/images/weather-dashboard-screen%20recording.gif) 
 
 ## Credits
 
